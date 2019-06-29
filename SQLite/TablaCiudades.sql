@@ -1,0 +1,1 @@
+CREATE TABLE ciudades (nombre varchar (40), poblacion numeric (9));
